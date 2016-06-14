@@ -1,0 +1,39 @@
+/*Page content: Styles are ordered in the pattern they appear on the page starting at the top*/
+body{
+	text-align: center;
+	background-color: #ffffff;
+}
+/* make changes to the title font*/
+h1{
+	font-family: "Futura";
+}
+
+
+/*styles the input descriptions & change fields: dollars, quarters, dimes, nickels, & pennies.*/
+.inputters{
+	font-family: "Futura";
+	font-size: 30px;
+}
+.box{
+	font-family: "Futura";
+	font-size: 25px;
+}
+
+
+
+/*Input Field Stylings*/
+.inline{
+	padding: 15px;
+}
+
+
+
+/*Button Stylings*/
+#calculate{
+	padding: 20px;
+}
+#button{
+	padding: 15px;
+	font-family: "Futura";
+	font-size: 25px;
+}
